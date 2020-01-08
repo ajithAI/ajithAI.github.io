@@ -1,2 +1,2 @@
-# ajithAI.github.io
+# ajith-sirra.github.io
 Website - AI
