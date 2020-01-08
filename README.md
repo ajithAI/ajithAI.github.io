@@ -1,4 +1,3 @@
-# ajith-sirra.github.io
-Website - AI
-
-## NLP 
+# Ajith Sirra 
+## NLP & Travel
+# Xilinx
